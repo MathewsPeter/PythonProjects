@@ -1,6 +1,7 @@
 '''
 convert a decimal number to binary.
 assume only whole and positive number
+
 '''
 
 n = (int)(input("enter a whole positive integer"))
